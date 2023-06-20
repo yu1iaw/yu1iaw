@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am interesting in:
+I am interested in:
 - React Native
 - React
 - Vanilla JavaScript
