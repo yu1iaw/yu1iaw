@@ -6,8 +6,7 @@ I am interested in:
 #
   
 
-#### I am looking for a Job. :mega:
-
+#### _I am looking for a Job._ :mega:
 
 ### Contact me on <a rel="me" href="https://ohai.social/@yu1ia">Mastodon</a>, <a href="https://t.me/yu1iaw">Telegram</a>
 #
