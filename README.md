@@ -8,7 +8,7 @@ I am interested in:
 
 #### _I am looking for a Job._ :mega:
 
-### Contact me on <a rel="me" href="https://ohai.social/@yu1ia">Mastodon</a>, <a href="https://t.me/yu1iaw">Telegram</a>, <a href="https://zooescape.com/user-profile.pl?usr=antidot"><IMG src="http://zooescape.com/img/zooescape-80x15-blue.gif" width=80 height=15 border=0 alt="backgammon"></a>
+### Contact me on <a rel="me" href="https://ohai.social/@yu1ia">Mastodon</a>, <a href="https://t.me/yu1iaw">Telegram</a>
 #
 [![Image of https://github.com/yu1iaw/github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter)
 
