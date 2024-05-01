@@ -8,7 +8,7 @@ I am interested in:
 
 #### _I am looking for a Job._ :mega:
 
-### Contact me on <a rel="me" href="https://ohai.social/@yu1ia">Mastodon</a> or <a href="https://matrix.to/#/@yu1iaw:matrix.org">Matrix</a>
+### Contact me <br /><a rel="me" href="https://ohai.social/@yu1ia">Mastodon</a>, <a href="https://matrix.to/#/@yu1iaw:matrix.org">Matrix</a>, <a href="mailto:yu1iaw@tutamail.com">Email</a>
 #
 [![Image of https://github.com/yu1iaw/github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter)
 
