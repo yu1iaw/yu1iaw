@@ -6,7 +6,7 @@
 - ###### [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=yu1ia-vasyleniuk.react-reactnative-snippets-essential)
 #
   ###### 🌐 **_Please I don't wanna sink with the ship. I can swim well anyway and I just need a real cruiser._**
-  ###### **_Щодо представників українських IT-понтів: лишилось побажати вам горіти у пеклі, а не навчитися ходити заради <del>корму для котів</del> вашої уваги по воді._**
+  ###### 📌 **_This area is protected from ukrainian skyperdiays ⚡_**
   
 ###### Contacts:<br /><a href="https://matrix.to/#/@yu1iaw:matrix.org">matrix</a>, <a href="https://t.me/yu1iaw">telegram</a>, <a href="mailto:yu1iaw@tutamail.com">email</a>
 <br />
