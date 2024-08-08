@@ -1,3 +1,5 @@
+  <img src="/image.png" alt="image" />
+  
 - ###### [mobile, apk]
   - ###### [Bulls and Cows](https://pixeldrain.com/u/ogJXxWpJ), [Yummy Recipes](https://pixeldrain.com/u/BFzPvy7N)
 - ###### [web/PWA,SPA]
@@ -5,7 +7,7 @@
 - ###### [Quick Anon Chat](https://chat-u6d0.onrender.com)
 - ###### [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=yu1ia-vasyleniuk.react-reactnative-snippets-essential)
 #
-  ###### 🌐 **_Please I don't wanna sink with the ship. I can swim well anyway and I just need a real cruiser._**
+  
   ###### 📌 **_This area is protected from ukrainian skyperdiays ⚡_**
   
 ###### Contacts:<br /><a href="https://bsky.app/profile/yu1ia.ohai.social.ap.brid.gy">bsky</a>, <a href="https://matrix.to/#/@yu1iaw:matrix.org">matrix</a>, <a href="https://t.me/yu1iaw">telegram</a>, <a href="mailto:7p3dvl434@nine.testrun.org">email</a>
