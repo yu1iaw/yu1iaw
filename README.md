@@ -7,8 +7,11 @@
 - ###### [Quick Anon Chat](https://chat-u6d0.onrender.com)
 - ###### [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=yu1ia-vasyleniuk.react-reactnative-snippets-essential)
 #
-  
-  ###### 📌 **_This area is protected from ukrainian skyperdiays ⚡_**
+
+  > ##### FYI:
+  > ###### Vakarchuk is used to using not only the living but also the dead for his own purposes. 
+#
+  ###### ⚡ **_This area is protected from ukrainian skyperdiays ⚡_**
   
 ###### Contacts:<br /><a href="https://bsky.app/profile/yu1ia.ohai.social.ap.brid.gy">bsky</a>, <a href="https://matrix.to/#/@yu1iaw:matrix.org">matrix</a>, <a href="https://t.me/yu1iaw">telegram</a>, <a href="mailto:7p3dvl434@nine.testrun.org">email</a>
 <br />
