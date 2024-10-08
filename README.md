@@ -13,7 +13,7 @@
 #
   ###### ⚡ **_This area is protected from ukrainian skyperdiays ⚡_**
   
-###### Contacts:<br /><a href="https://bsky.app/profile/yu1ia.ohai.social.ap.brid.gy">bsky</a>, <a href="https://matrix.to/#/@yu1iaw:matrix.org">matrix</a>, <a href="https://t.me/yu1iaw">telegram</a>, <a href="mailto:7p3dvl434@nine.testrun.org">email</a>
+###### Contacts:<br /><a href="https://bsky.app/profile/yu1ia.bsky.social">bsky</a>, <a href="https://matrix.to/#/@yu1iaw:matrix.org">matrix</a>, <a href="https://t.me/yu1iaw">telegram</a>, <a href="mailto:7p3dvl434@nine.testrun.org">email</a>
 <br />
 
 [![Image of https://github.com/yu1iaw/github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter)
