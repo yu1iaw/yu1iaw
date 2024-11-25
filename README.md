@@ -2,7 +2,7 @@
   
 ![Static Badge](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=ivory&style=for-the-badge) ![Static Badge](https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&logoColor=ivory&style=for-the-badge) ![Static Badge](https://img.shields.io/badge/-sqlite-003B57?logo=sqlite&logoColor=ivory&style=for-the-badge) ![Static Badge](https://img.shields.io/badge/-firestore-DD2C00?logo=firebase&logoColor=ivory&style=for-the-badge)
 
-![Static Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=ivory&style=for-the-badge) ![Static Badge](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=ivory&style=for-the-badge) ![Static Badge](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind%20css&logoColor=ivory&style=for-the-badge) 
+![Static Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=ivory&style=for-the-badge) ![Static Badge](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=ivory&style=for-the-badge) ![Static Badge](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind%20css&logoColor=ivory&style=for-the-badge) ![Static Badge](https://img.shields.io/badge/-framer%20motion-0055FF?logo=framer&logoColor=ivory&style=for-the-badge)
 
 #
 - ###### [mobile, apk]
@@ -18,8 +18,9 @@
 #
   ###### ⚡ **_This area is protected from ukrainian skyperdiays ⚡_**
   
-###### Contacts:<br /><a href="https://bsky.app/profile/yu1ia.bsky.social">bsky</a>, <a href="https://matrix.to/#/@yu1iaw:matrix.org">matrix</a>, <a href="https://t.me/yu1iaw">telegram</a>, <a href="mailto:7p3dvl434@nine.testrun.org">email</a>
-<br />
+###### Contacts: 
+<a href="https://t.me/yu1iaw"><img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=ivory" /></a>  <a href="mailto:vasilenyuky@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=ivory" /></a><br /><br /><br />
+
 
 [![Image of https://github.com/yu1iaw/github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter)
 
