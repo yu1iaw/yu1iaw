@@ -12,15 +12,10 @@
 - ###### [Quick Anon Chat](https://chat-u6d0.onrender.com)
 - ###### [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=yu1ia-vasyleniuk.react-reactnative-snippets-essential)
 #
-
-  > ##### FYI:
-  > ###### Vakarchuk is used to using not only the living but also the dead for his own purposes. 
-#
   ###### ⚡ **_This area is protected from ukrainian skyperdiays ⚡_**
   
 ###### Contacts: 
-<a href="https://t.me/yu1iaw"><img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=ivory" /></a>  <a href="mailto:vasilenyuky@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=ivory" /></a><br /><br /><br />
-
+<a href="https://t.me/yu1iaw"><img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=ivory" /></a>  <a href="mailto:vasilenyuky@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=ivory" /></a><br />
 
 [![Image of https://github.com/yu1iaw/github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter)
 
