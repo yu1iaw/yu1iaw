@@ -14,7 +14,7 @@
   ###### ⚡ **_This area is protected from ukrainian skyperdiays ⚡_**
   
 ###### Contacts: 
-<a href="https://1imechat.netlify.app"><img src="https://img.shields.io/badge/lime%20chat-578B34?logo=pwa&logoColor=white" /></a>
+<a href="https://1imechat.netlify.app" target="_blank"><img src="https://img.shields.io/badge/lime%20chat-578B34?logo=pwa&logoColor=white" /></a>
 <a href="mailto:vasilenyuky@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=ivory" /></a><br />
 
 [![Image of https://github.com/yu1iaw/github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter)
