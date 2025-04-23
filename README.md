@@ -17,7 +17,9 @@
   
 ###### Contacts: 
 <a href="https://1imechat.netlify.app" target="_blank"><img src="https://img.shields.io/badge/lime%20chat-578B34?logo=pwa&logoColor=white" /></a>
-<a href="mailto:vasilenyuky@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=ivory" /></a><br />
+<a href="mailto:vasilenyuky@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=ivory" /></a>
+<a href="https://bsky.app/profile/yu1iadev.website" target="_blank"><img src="https://img.shields.io/badge/bsky-005fad?logo=bluesky&logoColor=white" /></a>
+<br />
 
 [![Image of https://github.com/yu1iaw/github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter)
 
